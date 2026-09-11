@@ -1,4 +1,6 @@
 name: Build TrollVNC
+permissions:
+  contents: write
 
 on:
   push:
